@@ -61,13 +61,11 @@
         font-size: 14px;
     }
 
-    .mt-3,
-    .pt-4 {
+    .mt-3, .pt-4 {
         font-size: 12px;
     }
 
-    .mt-8,
-    .col-md-6 {
+    .mt-8, .col-md-6 {
         font-size: 16px;
     }
 }
@@ -92,11 +90,7 @@
     cursor: pointer;
 }
 
-.fa-facebook:hover,
-.fa-instagram:hover,
-.fa-twitter:hover,
-.fa-linkedin:hover,
-.fa-twitch:hover {
+.fa-facebook:hover, .fa-instagram:hover, .fa-twitter:hover, .fa-linkedin:hover, .fa-twitch:hover {
     color: #008000;
 }
 
